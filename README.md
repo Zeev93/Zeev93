@@ -1,7 +1,7 @@
 # Hola 👋, Soy Abraham Alvarado
 
 ## Desarrollador Web.
-[English](#english)
+[English](#hey--im-abraham-alvarado)
 
 He trabado en distintos proyectos donde he podido adquirir nuevos conocimientos, experiencias y he aprendido distintas formas de trabajar y aprendido de mi equipo,
 dándole continuación a proyectos ya existentes y comenzando nuevos.
